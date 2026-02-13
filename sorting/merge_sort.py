@@ -31,5 +31,6 @@ def merge_sort(list_a):
 
 
 list_a = [6,7,8,7,6,5,4,5,6,7,6,7,8,9,7,9,0]
+
 print(f"Before sorting: {list_a}")
 print(f"After sorting: {merge_sort(list_a)}")
