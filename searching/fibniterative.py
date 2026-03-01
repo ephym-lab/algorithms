@@ -13,3 +13,5 @@ def fibonacci_sequence(n):
     return sequence
 
 print(fibonacci_sequence(10))
+#
+#a=0,b=1,  a=1,b=1,  a=1,b=2,  a=2,b=3,  a=3,b=5,  a=5,b=8,  a=8,b=13,  a=13,b=21,  a=21,b=34,  a=34,b=55
